@@ -14,3 +14,11 @@ This repository contains data about GitHub users in Bangalore with over 100 foll
 - Date of collection: 2024-10-31
 - Only included users with 100+ followers
 - Up to 500 most recently pushed repositories per user
+
+  ## Most interesting Fact
+- GOOGLE has only 15 employees in Bangalore that are highly active on GitHub.
+- Even though JavaScript is used on frontend it still has a high number of users.
+- Make sure you learn Javascript and HTML as it has very high demand and also is used a lot.
+
+  ## Actionable Recommendation For Developers
+- Be highly Active on Github as MORE REPOS = HIGH FOLLOWERS = BETTER RESULT = HIGH SALARY JOB 
